@@ -560,7 +560,16 @@ EOF;
         </p>
         </form>
     </div>
-</div>
+
+        <div style="color: #fff;">       
+            <p> 
+                Powered By <a href="https://mybb.com/" target="_blank" rel="noopener">MyBB</a>, 
+                &copy; 2002-{$copy_year}.<br />
+                Style by <a href="https://mybboard.pl/user-35621.html" target="_blank" title="mybboard.pl">myCreedo</a> &amp; <a href="http://community.mybb.com/user-6029.html" target="_blank" title="community.mybb.com">vintagedaddyo</a><br /> 
+            </p>
+        </div>
+
+   </div>
 </body>
 </html>
 EOF;
@@ -634,7 +643,16 @@ EOF;
         </p>
         </form>
     </div>
-</div>
+
+        <div style="color: #fff;">       
+            <p> 
+                Powered By <a href="https://mybb.com/" target="_blank" rel="noopener">MyBB</a>, 
+                &copy; 2002-{$copy_year}.<br />
+                Style by <a href="https://mybboard.pl/user-35621.html" target="_blank" title="mybboard.pl">myCreedo</a> &amp; <a href="http://community.mybb.com/user-6029.html" target="_blank" title="community.mybb.com">vintagedaddyo</a><br /> 
+            </p>
+        </div>
+
+   </div>
 </body>
 </html>
 EOF;
@@ -676,7 +694,16 @@ EOF;
         <h2>{$lang->error_mybb_admin_lockedout}</h2>
         <div class="alert">{$lockedout_message}</div>
     </div>
-</div>
+
+        <div style="color: #fff;">       
+            <p> 
+                Powered By <a href="https://mybb.com/" target="_blank" rel="noopener">MyBB</a>, 
+                &copy; 2002-{$copy_year}.<br />
+                Style by <a href="https://mybboard.pl/user-35621.html" target="_blank" title="mybboard.pl">myCreedo</a> &amp; <a href="http://community.mybb.com/user-6029.html" target="_blank" title="community.mybb.com">vintagedaddyo</a><br /> 
+            </p>
+        </div>
+
+   </div>
 </body>
 </html>
 EOF;
@@ -766,12 +793,22 @@ EOF;
         </p>
         </form>
     </div>
-</div>
+
+        <div style="color: #fff;">       
+            <p> 
+                Powered By <a href="https://mybb.com/" target="_blank" rel="noopener">MyBB</a>, 
+                &copy; 2002-{$copy_year}.<br />
+                Style by <a href="https://mybboard.pl/user-35621.html" target="_blank" title="mybboard.pl">myCreedo</a> &amp; <a href="http://community.mybb.com/user-6029.html" target="_blank" title="community.mybb.com">vintagedaddyo</a><br /> 
+            </p>
+        </div>
+
+   </div>
 </body>
 </html>
 EOF;
     exit;
     }
+    
 
 }
 
